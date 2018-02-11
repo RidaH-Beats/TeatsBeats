@@ -1,0 +1,806 @@
+﻿#EXTM3U
+#EXTINF:-1,TRT HABER HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/10.ts
+#EXTINF:-1,TRT SPOR HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/9.ts
+#EXTINF:-1,TRT WORLD HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/1.ts
+#EXTINF:-1,A HABER HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/16.ts
+#EXTINF:-1,A SPOR HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/15.ts
+#EXTINF:-1,A NEWS HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/2.ts
+#EXTINF:-1,NTV HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/14.ts
+#EXTINF:-1,NTV SPOR HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/13.ts
+#EXTINF:-1,CNN TÜRK HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/12.ts
+#EXTINF:-1,HABER TÜRK HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/11.ts
+#EXTINF:-1,TVNET HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/8.ts
+#EXTINF:-1,ÜLKE TV HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/7.ts
+#EXTINF:-1,24 HABER HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/4.ts
+#EXTINF:-1,BLOOMBERG HT HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/5.ts
+#EXTINF:-1,TGRT HABER
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/17.ts
+#EXTINF:-1,BENGÜ TÜRK
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/3.ts
+#EXTINF:-1,TRT 1 HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/18.ts
+#EXTINF:-1,TRT BELGESEL HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/19.ts
+#EXTINF:-1,TRT COCUK HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/20.ts
+#EXTINF:-1,BEYAZ TV HD
+http://213.115.236.35:25461/live/dsndc-esh/C4uXaqA147As72A2/21.ts
+
+#EXTINF:-1,KANAL B YEDEK
+http://ams.tvizlehd.com/live/kanalb/chunks.m3u8
+#EXTINF:-1,TEK RUMELi TV
+http://ams.tvizlehd.com/live/tekrumelitv/chunks.m3u8
+#EXTINF:-1,BURSASPOR TV
+http://ams.tvizlehd.com/live/bursatv/chunks.m3u8
+#EXTINF:-1,SONY COCUK
+http://ams.tvizlehd.com/live/sonycocuk/chunks.m3u8
+#EXTINF:-1,DiSNEY CHANNEL
+http://ams.tvizlehd.com/live/disneychannel/chunks.m3u8
+#EXTINF:-1,BEiN SPORT HABER
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+#EXTINF:-1,TVEM YEDEK
+http://ams.tvizlehd.com/live/tvem/chunks.m3u8
+#EXTINF:-1,FIL TV YEDEK
+http://ams.tvizlehd.com/live/filtv/playlist.m3u8
+#EXTINF:-1,SONY CHANNEL TV
+http://ams.tvizlehd.com/live/sonychannel/playlist.m3u8
+#EXTINF:-1,24 TV YEDEK
+http://ams.tvizlehd.com/live/kanal24/chunks.m3u8
+#EXTINF:-1,TVNET YEDEK
+http://ams.tvizlehd.com/live/tvnet/chunks.m3u8
+#EXTINF:-1,BENGUTURK TV
+http://ams.tvizlehd.com/live/benguturktv/chunks.m3u8
+
+#EXTINF:-1,BEiNSPORTS 1 1080p y
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1.ts
+#EXTINF:-1,BEiNSPORTS 1 UHD y
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/14.ts
+#EXTINF:-1,BEiNSPORTS 2 UHD y
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2.ts
+#EXTINF:-1,BEiNSPORTS 3 UHD y
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3.ts
+#EXTINF:-1,BEINSPORTS 4 UHD y
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/4.ts
+#EXTINF:-1,BEINSPORTS MAX 1 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5.ts
+#EXTINF:-1,BEINSPORTS MAX 2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6.ts
+#EXTINF:-1,BEiNSPORTS HABER HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/7.ts
+#EXTINF:-1,BEINSPORTS 1 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2299.ts
+#EXTINF:-1,BEINSPORTS 2 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2300.ts
+#EXTINF:-1,BEINSPORTS 3 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2301.ts
+#EXTINF:-1,BEINSPORTS 4 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2298.ts
+#EXTINF:-1,BEiN SPORT-1 HD  (720P)
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/97.ts
+#EXTINF:-1,BEiN SPORT-2 HD  (720P)
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/96.ts
+#EXTINF:-1,BEiN SPORT-3 HD  (720P)
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/95.ts
+#EXTINF:-1,BEiN SPORT-4 HD  (720P)
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/94.ts
+#EXTINF:-1,TiViBUSPOR 1 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/8.ts
+#EXTINF:-1,TiViBUSPOR 2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/9.ts
+#EXTINF:-1,TiViBUSPOR 3 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/10.ts
+#EXTINF:-1,TiViBUSPOR 4 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/11.ts
+#EXTINF:-1,TIVIBUSPOR-1 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/34.ts
+#EXTINF:-1,TIVIBUSPOR-2 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/33.ts
+#EXTINF:-1,TIVIBUSPOR-3 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/32.ts
+#EXTINF:-1,TIVIBUSPOR-4 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/31.ts
+#EXTINF:-1,SARANSPORT HD 1080
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/4020.ts
+#EXTINF:-1,S-SPORT UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/47.ts
+#EXTINF:-1,SMARTSPOR  UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/40.ts
+#EXTINF:-1,SMARTSPOR HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/39.ts
+#EXTINF:-1,SMARTSPOR HD 1080
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/4019.ts
+#EXTINF:-1,NBA TV HD 1080
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/4018.ts
+#EXTINF:-1,ASPOR HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/107.ts
+#EXTINF:-1,NTVSPOR HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/52.ts
+#EXTINF:-1,TRTSPOR HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/24.ts
+#EXTINF:-1,FBTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/76.ts
+#EXTINF:-1,BJKTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/92.ts
+#EXTINF:-1,GSTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/72.ts
+#EXTINF:-1,BURSASPORTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/90.ts
+#EXTINF:-1,SPORTSTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/38.ts
+#EXTINF:-1,EUROSPORT1 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/78.ts
+#EXTINF:-1,EUROSPORT2 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/77.ts
+#EXTINF:-1,>>>>>>> TURKISH MOVIE/TURKCE SINEMA <<<<<<<
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6004.ts
+#EXTINF:-1,BEiNMOVIES PREMIERE UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/722.ts
+#EXTINF:-1,BEiNMOVIES PREMIERE UHD 2
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/723.ts
+#EXTINF:-1,BEiNMOVIES ACTION UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/724.ts
+#EXTINF:-1,BEiNMOVIES ACTION UHD 2
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/725.ts
+#EXTINF:-1,BEiNMOVIES STARS UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/726.ts
+#EXTINF:-1,BEiNMOVIES COMEDY UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/729.ts
+#EXTINF:-1,BEiNMOVIES FESTIVAL UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/727.ts
+#EXTINF:-1,BEiNMOVIES FAMLY UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/728.ts
+#EXTINF:-1,BEiNMOVIES TURK UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/730.ts
+#EXTINF:-1,BEiN BOX OFFiCE 1 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/103.ts
+#EXTINF:-1,BEiN BOX OFFiCE 2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/102.ts
+#EXTINF:-1,BEiN BOX OFFiCE 3 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/101.ts
+#EXTINF:-1,BEiN BOXOFFICE TURK UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/100.ts
+#EXTINF:-1,MOVIESMART PLATIN UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1993.ts
+#EXTINF:-1,MOVIESMART PLATIN 2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3080.ts
+#EXTINF:-1,MOVIESMART PREMIUM UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3082.ts
+#EXTINF:-1,MOVIESMART PREMIUM 2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3081.ts
+#EXTINF:-1,MOVIESMART ACTION UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3075.ts
+#EXTINF:-1,MOVIESMART CLASSIC UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3076.ts
+#EXTINF:-1,MOVIESMART FAMLY UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3077.ts
+#EXTINF:-1,MOVIESMART FEST UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3078.ts
+#EXTINF:-1,MOVIESMART GOLD UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/3079.ts
+#EXTINF:-1,MOVIESMART TURK UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1994.ts
+#EXTINF:-1,Sinema TV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1991.ts
+#EXTINF:-1,Sinema TV 2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1988.ts
+#EXTINF:-1,Sinema TV 1001 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1987.ts
+#EXTINF:-1,Sinema TV Aile UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1989.ts
+#EXTINF:-1,Sinema TV Aksiyon UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1990.ts
+#EXTINF:-1,SineTivi UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2307.ts
+#EXTINF:-1,SineTivi2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2304.ts
+#EXTINF:-1,SineTiviAdrenalin UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2306.ts
+#EXTINF:-1,SineTiviAdrenalin2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2305.ts
+#EXTINF:-1,SineTiviKarnaval UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2309.ts
+#EXTINF:-1,SineTiviKarnaval2 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2308.ts
+#EXTINF:-1,MOVIEMAXTURK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/60.ts
+#EXTINF:-1,TR FILM:SALON 1 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6179.ts
+#EXTINF:-1,TR FILM:SALON 2 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6178.ts
+#EXTINF:-1,TR FILM:SALON 3 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6177.ts
+#EXTINF:-1,(TR) CAPTAIN MOVIES 1
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6003.ts
+#EXTINF:-1,(TR)CAPTAIN MOVIES 2
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6002.ts
+#EXTINF:-1,(TR) CAPTAIN MOVIES 3
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6001.ts
+#EXTINF:-1,(TR) CAPTAIN MOVIES 4
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6000.ts
+#EXTINF:-1,(TR) CAPTAIN MOVIES 5
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5999.ts
+#EXTINF:-1,(TR) FILMAX COMEDY HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5977.ts
+#EXTINF:-1,(TR) FILMAX FAMILY HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5978.ts
+#EXTINF:-1,(TR) FILMAX YESILCAM HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5979.ts
+#EXTINF:-1,TR: FILMAX GOLD UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6180.ts
+#EXTINF:-1,(TR) FILMBOXHD AKSIYON
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5995.ts
+#EXTINF:-1,(TR) FILMBOXHD AKSIYON 2
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5994.ts
+#EXTINF:-1,(TR) FILMBOXHD ANIMASYON
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5993.ts
+#EXTINF:-1,(TR) FILMBOXHD BILIMKURGU
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5992.ts
+#EXTINF:-1,(TR) FILMBOXHD DRAM
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5991.ts
+#EXTINF:-1,(TR) FILMBOXHD FANTASTIK
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5990.ts
+#EXTINF:-1,(TR) FILMBOXHD GERMANY
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5989.ts
+#EXTINF:-1,(TR) FILMBOXHD KOMEDI
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5988.ts
+#EXTINF:-1,(TR) FILMBOXHD KORKU
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5987.ts
+#EXTINF:-1,(TR) FILMBOXHD PREMIER
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5986.ts
+#EXTINF:-1,(TR) FILMBOXHD SINEVIZYON
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5985.ts
+#EXTINF:-1,(TR) FILMBOXHD TURK
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5984.ts
+#EXTINF:-1,(TR) FILMBOXHD YESILCAM
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5983.ts
+#EXTINF:-1,(TR)LOCA-1-HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5998.ts
+#EXTINF:-1,(TR)LOCA-2-HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5997.ts
+#EXTINF:-1,(TR)LOCA-3-HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5996.ts
+#EXTINF:-1,SiNEMA TV 1 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/46.ts
+#EXTINF:-1,SiNEMA TV 2 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/44.ts
+#EXTINF:-1,SiNEMA TV AKSiYON HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/42.ts
+#EXTINF:-1,SiNEMA TV AiLE HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/43.ts
+#EXTINF:-1,SiNEMA TV 1001 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/45.ts
+#EXTINF:-1,>>>>>>> TURKISH SERIAL/TURKCE DIZI <<<<<<<
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6005.ts
+#EXTINF:-1,BEINSERIES VICE UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1657.ts
+#EXTINF:-1,BEINSERIES SCI UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1658.ts
+#EXTINF:-1,BEINSERIES DRAMA UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1659.ts
+#EXTINF:-1,BEINSERIES COMEDY UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1660.ts
+#EXTINF:-1,Dizi TV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2302.ts
+#EXTINF:-1,Fil TV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2303.ts
+#EXTINF:-1,Fox Crime UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2002.ts
+#EXTINF:-1,Fox Life UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2000.ts
+#EXTINF:-1,Fx UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2001.ts
+#EXTINF:-1,DIZI SMART UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1992.ts
+#EXTINF:-1,>>>>>>> TURKISH ULUSAL ULTRAHD <<<<<<<
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6007.ts
+#EXTINF:-1,TRT1 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5563.ts
+#EXTINF:-1,STARTV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5562.ts
+#EXTINF:-1,FOXTV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5557.ts
+#EXTINF:-1,ATV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5555.ts
+#EXTINF:-1,SHOWTV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5561.ts
+#EXTINF:-1,KANALD UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5559.ts
+#EXTINF:-1,TV8 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5564.ts
+#EXTINF:-1,KANA7 UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5558.ts
+#EXTINF:-1,ULKETV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5565.ts
+#EXTINF:-1,360TV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5554.ts
+#EXTINF:-1,FLASHTV UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5566.ts
+#EXTINF:-1,NTVHABER UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5560.ts
+#EXTINF:-1,>>>>>>> TURKISH NATIOL/TURKCE ULUSAL <<<<<<<
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6006.ts
+#EXTINF:-1,TRT1 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/12.ts
+#EXTINF:-1,STARTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/37.ts
+#EXTINF:-1,FOXTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/73.ts
+#EXTINF:-1,FOX UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/74.ts
+#EXTINF:-1,ATV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/106.ts
+#EXTINF:-1,SHOWTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/13.ts
+#EXTINF:-1,KANAL D sd
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1704.ts
+#EXTINF:-1,KANAL D HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/67.ts
+#EXTINF:-1,TV8 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/22.ts
+#EXTINF:-1,KANAL7 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/66.ts
+#EXTINF:-1,BEYAZTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/93.ts
+#EXTINF:-1,BEYAZ HD 1080p
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1699.ts
+#EXTINF:-1,ULKETV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/19.ts
+#EXTINF:-1,SKYTURK360 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/41.ts
+#EXTINF:-1,TV2 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1985.ts
+#EXTINF:-1,TV8.5
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/21.ts
+#EXTINF:-1,FLASHTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/75.ts
+#EXTINF:-1,A2 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/109.ts
+#EXTINF:-1,KRT TV
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5109.ts
+#EXTINF:-1,TVNET HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/20.ts
+#EXTINF:-1,SONY CHANNEL
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6181.ts
+#EXTINF:-1,HALK TV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/70.ts
+#EXTINF:-1,>>>>>>>  HABER KANALLARI  <<<<<<<
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6142.ts
+#EXTINF:-1,NTV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/4273.ts
+#EXTINF:-1,NTV HABER HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/53.ts
+#EXTINF:-1,A HABER HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/110.ts
+#EXTINF:-1,TRT HABER HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/26.ts
+#EXTINF:-1,HABERTURK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/71.ts
+#EXTINF:-1,CNN TURK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/88.ts
+#EXTINF:-1,TGRT HABER HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/35.ts
+#EXTINF:-1,TRT TURK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/25.ts
+#EXTINF:-1,TV8 INT
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2028.ts
+#EXTINF:-1,TEVE 2 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/36.ts
+#EXTINF:-1,1AN TV
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5107.ts
+#EXTINF:-1,KANAL B
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5108.ts
+#EXTINF:-1,KANAL 24 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/68.ts
+#EXTINF:-1,BLOOMBERGHT HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/91.ts
+#EXTINF:-1,TBMM TV
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5104.ts
+#EXTINF:-1,ULUSAL KANAL
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5106.ts
+#EXTINF:-1,>>>>>>> MUZIK KANALLARI <<<<<<<
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6152.ts
+#EXTINF:-1,POWER TV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/48.ts
+#EXTINF:-1,POWER TURK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/49.ts
+#EXTINF:-1,Dream Turk
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/2027.ts
+#EXTINF:-1,NR1 TURK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/54.ts
+#EXTINF:-1,NR1 HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/55.ts
+#EXTINF:-1,KRAL TV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/63.ts
+#EXTINF:-1,KRAL POP HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/64.ts
+#EXTINF:-1,DREAM TV
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/80.ts
+#EXTINF:-1,DREAM TURK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/81.ts
+#EXTINF:-1,>>>>>>> TURKISH DOCUMANTRY/TURKCE BELGESEL <<<<<<<
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6009.ts
+#EXTINF:-1,ANiMAL PLANET UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/108.ts
+#EXTINF:-1,Nat Geo People UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1995.ts
+#EXTINF:-1,Nat Geo Wild HD 1080p
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1996.ts
+#EXTINF:-1,NAT GEO WiLD HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/59.ts
+#EXTINF:-1,National Geographic UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1997.ts
+#EXTINF:-1,NATiONAL GEOGRAPHiC HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/58.ts
+#EXTINF:-1,DISCOVERY CHANNEL UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1716.ts
+#EXTINF:-1,DiSCOWERY CHANNEL HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/87.ts
+#EXTINF:-1,DiSCOWERY SHOWCASE UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/85.ts
+#EXTINF:-1,DiSCOWERY ID HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/86.ts
+#EXTINF:-1,DA VINCI LEARNING UHD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/5556.ts
+#EXTINF:-1,BBC EARTH HD 1080
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/4021.ts
+#EXTINF:-1,DTX TV HD 1080
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/4022.ts
+#EXTINF:-1,IDX DISCOVERY HD 1080
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/4023.ts
+#EXTINF:-1,BEIN IZ HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/15.ts
+#EXTINF:-1,BEIN GURME HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/23.ts
+#EXTINF:-1,YABAN TV HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/16.ts
+#EXTINF:-1,ViASAT EXPLORER HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/18.ts
+#EXTINF:-1,CHASSE&PECHE
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/1727.ts
+#EXTINF:-1,TRT BELGESEL
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/27.ts
+#EXTINF:-1,HISTORY HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/69.ts
+#EXTINF:-1,TLC HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/30.ts
+#EXTINF:-1,>>>>>>> TURKISH CARTOON/TURK CIZGI FILM <<<<<<<
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/6008.ts
+#EXTINF:-1,CARTOON NETWORK
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/89.ts
+#EXTINF:-1,NICKELODEON HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/56.ts
+#EXTINF:-1,NICK JR
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/57.ts
+#EXTINF:-1,TRT COCUK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/28.ts
+#EXTINF:-1,MINIKA COCUK
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/61.ts
+#EXTINF:-1,MINICA GO HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/62.ts
+#EXTINF:-1,KIDZ TV COCUK
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/65.ts
+#EXTINF:-1,DiSNEY XD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/79.ts
+#EXTINF:-1,PLANETCOCUK HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/50.ts
+#EXTINF:-1,DISNEY JR HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/83.ts
+#EXTINF:-1,DISNEY HD
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/84.ts
+#EXTINF:-1,BABYFiRST TV
+http://iptvhdclup.dyndns.tv:2017/live/eyupkahvec/tV345qW35/104.ts
+
+#EXTINF:-1,TR: A Sport HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9139.ts
+#EXTINF:-1,TR: A2
+http://s1.iptvforver.com:8000/live/gareth/gareth/9142.ts
+#EXTINF:-1,TR: Ahi TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9138.ts
+#EXTINF:-1,TR: Aksu TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9137.ts
+#EXTINF:-1,TR: Animal Planet HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9136.ts
+#EXTINF:-1,TR: ATV Avrupa
+http://s1.iptvforver.com:8000/live/gareth/gareth/9135.ts
+#EXTINF:-1,TR: ATV HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9161.ts
+#EXTINF:-1,TR: Baby TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9134.ts
+#EXTINF:-1,TR: beIN Box Office 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9035.ts
+#EXTINF:-1,TR: beIN Box Office 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9034.ts
+#EXTINF:-1,TR: beIN Box Office 3 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9033.ts
+#EXTINF:-1,TR: beIN IZ TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9133.ts
+#EXTINF:-1,TR: beINMovies Action HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9177.ts
+#EXTINF:-1,TR: beINMovies Family HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9179.ts
+#EXTINF:-1,TR: beINMovies Festival HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9178.ts
+#EXTINF:-1,TR: beINMovies Premiere 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9176.ts
+#EXTINF:-1,TR: beINMovies Premiere 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9175.ts
+#EXTINF:-1,TR: beINMovies Stars HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9174.ts
+#EXTINF:-1,TR: beINMovies Turk HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9173.ts
+#EXTINF:-1,TR: beINSport 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9040.ts
+#EXTINF:-1,TR: beINSport 1 Max HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9037.ts
+#EXTINF:-1,TR: beINSport 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9039.ts
+#EXTINF:-1,TR: beINSport 2 Max HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9036.ts
+#EXTINF:-1,TR: beINSport 3 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9038.ts
+#EXTINF:-1,TR: BEN TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9132.ts
+#EXTINF:-1,TR: BenguTurk TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9149.ts
+#EXTINF:-1,TR: Beyaz TV HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9131.ts
+#EXTINF:-1,TR: BJK TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9130.ts
+#EXTINF:-1,TR: Bloomberg TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9150.ts
+#EXTINF:-1,TR: BRT 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9129.ts
+#EXTINF:-1,TR: BRT 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9128.ts
+#EXTINF:-1,TR: Cartoon Network HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9127.ts
+#EXTINF:-1,TR: Cay TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9126.ts
+#EXTINF:-1,TR: Cem TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9125.ts
+#EXTINF:-1,TR: CNN Turk HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9151.ts
+#EXTINF:-1,TR: Da Vinci Learning HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9124.ts
+#EXTINF:-1,TR: Discovery Channel
+http://s1.iptvforver.com:8000/live/gareth/gareth/9141.ts
+#EXTINF:-1,TR: Discovery IDX HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9123.ts
+#EXTINF:-1,TR: Discovery ShowCase HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9122.ts
+#EXTINF:-1,TR: Disney Channel
+http://s1.iptvforver.com:8000/live/gareth/gareth/9168.ts
+#EXTINF:-1,TR: Disney Junior
+http://s1.iptvforver.com:8000/live/gareth/gareth/9169.ts
+#EXTINF:-1,TR: Disney XD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9121.ts
+#EXTINF:-1,TR: Dost TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9120.ts
+#EXTINF:-1,TR: Dream Truk
+http://s1.iptvforver.com:8000/live/gareth/gareth/9119.ts
+#EXTINF:-1,TR: Dream TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9118.ts
+#EXTINF:-1,TR: Euro D
+http://s1.iptvforver.com:8000/live/gareth/gareth/9029.ts
+#EXTINF:-1,TR: Euro Star
+http://s1.iptvforver.com:8000/live/gareth/gareth/9030.ts
+#EXTINF:-1,TR: EuroSport 1
+http://s1.iptvforver.com:8000/live/gareth/gareth/9028.ts
+#EXTINF:-1,TR: EuroSport 2
+http://s1.iptvforver.com:8000/live/gareth/gareth/9027.ts
+#EXTINF:-1,TR: Fenerbahce
+http://s1.iptvforver.com:8000/live/gareth/gareth/9117.ts
+#EXTINF:-1,TR: Fil TV HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9116.ts
+#EXTINF:-1,TR: FilmBox
+http://s1.iptvforver.com:8000/live/gareth/gareth/9115.ts
+#EXTINF:-1,TR: Filmbox Fantastik HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9114.ts
+#EXTINF:-1,TR: Filmbox Turkmax Gurme HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9113.ts
+#EXTINF:-1,TR: Flash TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9112.ts
+#EXTINF:-1,TR: Fox Crime
+http://s1.iptvforver.com:8000/live/gareth/gareth/9148.ts
+#EXTINF:-1,TR: Fox HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9147.ts
+#EXTINF:-1,TR: Fox Life
+http://s1.iptvforver.com:8000/live/gareth/gareth/9146.ts
+#EXTINF:-1,TR: Fox Life HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9111.ts
+#EXTINF:-1,TR: Genc TV HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9110.ts
+#EXTINF:-1,TR: GS TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9109.ts
+#EXTINF:-1,TR: Haber Turk HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9108.ts
+#EXTINF:-1,TR: Halk TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9107.ts
+#EXTINF:-1,TR: History Channel HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9106.ts
+#EXTINF:-1,TR: IDMan TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9105.ts
+#EXTINF:-1,TR: Kanal 24
+http://s1.iptvforver.com:8000/live/gareth/gareth/9152.ts
+#EXTINF:-1,TR: Kanal 26
+http://s1.iptvforver.com:8000/live/gareth/gareth/9104.ts
+#EXTINF:-1,TR: Kanal 3
+http://s1.iptvforver.com:8000/live/gareth/gareth/9103.ts
+#EXTINF:-1,TR: Kanal 58
+http://s1.iptvforver.com:8000/live/gareth/gareth/9102.ts
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://s1.iptvforver.com:8000/live/gareth/gareth/9101.ts
+#EXTINF:-1,TR: Kanal 7 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9153.ts
+#EXTINF:-1,TR: Kanal D HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9170.ts
+#EXTINF:-1,TR: Karaden
+http://s1.iptvforver.com:8000/live/gareth/gareth/9100.ts
+#EXTINF:-1,TR: Kent TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9099.ts
+#EXTINF:-1,TR: Kidz
+http://s1.iptvforver.com:8000/live/gareth/gareth/9098.ts
+#EXTINF:-1,TR: Kon TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9097.ts
+#EXTINF:-1,TR: Kral
+http://s1.iptvforver.com:8000/live/gareth/gareth/9167.ts
+#EXTINF:-1,TR: Kral POP HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9166.ts
+#EXTINF:-1,TR: Lalegul TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9096.ts
+#EXTINF:-1,TR: MagicBox Aksiyon HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9095.ts
+#EXTINF:-1,TR: MagicBox Animasyon HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9094.ts
+#EXTINF:-1,TR: MagicBox Komedi HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9093.ts
+#EXTINF:-1,TR: Minika Cocuk
+http://s1.iptvforver.com:8000/live/gareth/gareth/9092.ts
+#EXTINF:-1,TR: Minika Cocuk HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9091.ts
+#EXTINF:-1,TR: Minika Go HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9090.ts
+#EXTINF:-1,TR: MovieSmart Action HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9089.ts
+#EXTINF:-1,TR: MovieSmart Classic HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9082.ts
+#EXTINF:-1,TR: MovieSmart Family HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9088.ts
+#EXTINF:-1,TR: MovieSmart Fest HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9081.ts
+#EXTINF:-1,TR: MovieSmart Gold HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9087.ts
+#EXTINF:-1,TR: MovieSmart Platin 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9083.ts
+#EXTINF:-1,TR: MovieSmart Platin HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9084.ts
+#EXTINF:-1,TR: MovieSmart Premium 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9086.ts
+#EXTINF:-1,TR: MovieSmart Premium 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9085.ts
+#EXTINF:-1,TR: MovieSmart Turk HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9080.ts
+#EXTINF:-1,TR: Nat Geo HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9079.ts
+#EXTINF:-1,TR: Nat Geo People
+http://s1.iptvforver.com:8000/live/gareth/gareth/9172.ts
+#EXTINF:-1,TR: Nat Geo Wild HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9171.ts
+#EXTINF:-1,TR: Nick JR
+http://s1.iptvforver.com:8000/live/gareth/gareth/9078.ts
+#EXTINF:-1,TR: Nickeledeon HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9077.ts
+#EXTINF:-1,TR: NR1 Turk
+http://s1.iptvforver.com:8000/live/gareth/gareth/9076.ts
+#EXTINF:-1,TR: NTV HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9075.ts
+#EXTINF:-1,TR: NTV Sport HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9074.ts
+#EXTINF:-1,TR: Planet Cocuk HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9073.ts
+#EXTINF:-1,TR: Planet Mutfak
+http://s1.iptvforver.com:8000/live/gareth/gareth/9072.ts
+#EXTINF:-1,TR: Planet Pembe
+http://s1.iptvforver.com:8000/live/gareth/gareth/9071.ts
+#EXTINF:-1,TR: Planet Turk
+http://s1.iptvforver.com:8000/live/gareth/gareth/9070.ts
+#EXTINF:-1,TR: Power Turk HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9069.ts
+#EXTINF:-1,TR: S Sports TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9068.ts
+#EXTINF:-1,TR: Sakarya TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9067.ts
+#EXTINF:-1,TR: Salon 1 FHD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9164.ts
+#EXTINF:-1,TR: Salon 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9163.ts
+#EXTINF:-1,TR: Salon 3 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9162.ts
+#EXTINF:-1,TR: Salon 4 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9066.ts
+#EXTINF:-1,TR: Semerkant TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9065.ts
+#EXTINF:-1,TR: Show HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9064.ts
+#EXTINF:-1,TR: Show Max
+http://s1.iptvforver.com:8000/live/gareth/gareth/9063.ts
+#EXTINF:-1,TR: Show Turk
+http://s1.iptvforver.com:8000/live/gareth/gareth/9154.ts
+#EXTINF:-1,TR: Sinema TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9062.ts
+#EXTINF:-1,TR: SineTivi HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9061.ts
+#EXTINF:-1,TR: Smart Sport 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9060.ts
+#EXTINF:-1,TR: Smart Sport 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9059.ts
+#EXTINF:-1,TR: Star HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9058.ts
+#EXTINF:-1,TR: TGRT Haber
+http://s1.iptvforver.com:8000/live/gareth/gareth/9159.ts
+#EXTINF:-1,TR: TGRT Haber HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9057.ts
+#EXTINF:-1,TR: TiviBu Sport 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9041.ts
+#EXTINF:-1,TR: TiviBu Sport 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9032.ts
+#EXTINF:-1,TR: TiviBu Sport 3 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9031.ts
+#EXTINF:-1,TR: TiviBu Sport 4 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9026.ts
+#EXTINF:-1,TR: TJK TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9056.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9155.ts
+#EXTINF:-1,TR: TRT Belgesel HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9157.ts
+#EXTINF:-1,TR: TRT Cocuk
+http://s1.iptvforver.com:8000/live/gareth/gareth/9158.ts
+#EXTINF:-1,TR: TRT Diyanet
+http://s1.iptvforver.com:8000/live/gareth/gareth/9054.ts
+#EXTINF:-1,TR: TRT Haber HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9053.ts
+#EXTINF:-1,TR: TRT Muzik HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9156.ts
+#EXTINF:-1,TR: TRT Okul
+http://s1.iptvforver.com:8000/live/gareth/gareth/9052.ts
+#EXTINF:-1,TR: TRT Sport HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9051.ts
+#EXTINF:-1,TR: TRT Turk
+http://s1.iptvforver.com:8000/live/gareth/gareth/9050.ts
+#EXTINF:-1,TR: TRT World
+http://s1.iptvforver.com:8000/live/gareth/gareth/9160.ts
+#EXTINF:-1,TR: TV 2 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9049.ts
+#EXTINF:-1,TR: TV 4
+http://s1.iptvforver.com:8000/live/gareth/gareth/9048.ts
+#EXTINF:-1,TR: TV 5
+http://s1.iptvforver.com:8000/live/gareth/gareth/9047.ts
+#EXTINF:-1,TR: TV 8.5 HD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9046.ts
+#EXTINF:-1,TR: TV EM
+http://s1.iptvforver.com:8000/live/gareth/gareth/9045.ts
+#EXTINF:-1,TR: TV Kayser
+http://s1.iptvforver.com:8000/live/gareth/gareth/9044.ts
+#EXTINF:-1,TR: TV8 FHD
+http://s1.iptvforver.com:8000/live/gareth/gareth/9165.ts
+#EXTINF:-1,TR: TV8.5
+http://s1.iptvforver.com:8000/live/gareth/gareth/9055.ts
+#EXTINF:-1,TR: Ulke TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9043.ts
+#EXTINF:-1,TR: Yaban TV
+http://s1.iptvforver.com:8000/live/gareth/gareth/9042.ts
